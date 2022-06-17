@@ -1,2 +1,5 @@
 input : user name
 input : paswrd
+input : email
+input : address
+input : phone
